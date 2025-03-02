@@ -1,0 +1,73 @@
+/* Utility Classes */
+.display-1 {
+	font-size: 5rem;
+}
+
+.flex {
+	flex-direction: column;
+}
+
+/* Padding */
+.p-1 {
+	padding: 70px 0;
+}
+
+.p-2 {
+	padding: 50px 0;
+}
+
+.pb-1 {
+	padding-bottom: 20px;
+}
+
+.pt-1 {
+	padding-top: 80px;
+}
+
+/* Mainheader */
+.mainheader {
+	height: 100%;
+}
+
+.mainheader .container {
+	flex-direction: column;
+	padding-top: 20px;
+	text-align: center;
+}
+
+/* Showcase */
+.flex-social {
+	justify-content: center;
+	padding-top: 50px;
+}
+
+/* Shop  */
+#shop {
+	text-align: center;
+}
+
+/* About */
+#about {
+	text-align: center;
+}
+#about .flex-box {
+	padding-bottom: 40px;
+}
+
+
+#button {
+	background-color: #101010; 
+	border: none; 
+	color: white; 
+	padding: 10px 20px; 
+	text-align: center; 
+	text-decoration: none;
+	display: inline-block; 
+	font-size: 16px; 
+	margin: 4px 2px; 
+	cursor: pointer; 
+}
+
+#button:hover {
+	background-color: #323232;
+}
